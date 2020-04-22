@@ -5,7 +5,9 @@ body{
     text-align: center;
     width: 100%;
 }
-
+* {
+    box-sizing: border-box;
+  }
 
 .supervisor{
     width: 25%;
@@ -107,25 +109,6 @@ body{
     bottom: 30px;
 }
 
-
-@media screen and (max-width:400px){
-    .supervisor{
-        width: 92%;
-    }
-
-    .team-builder{
-        width: 92%;
-    }
-
-    .karma{
-        width: 92%;
-    }
-
-    .calculator{
-        width: 92%;
-    }
-}
-
 .footer{
     position: relative;
     top: 620px;
@@ -137,4 +120,10 @@ a{
     text-decoration: none;
     font-weight: 600;
     font-size: 12px;
+}
+
+@media screen and (max-width:700px){
+    .supervisor, .team-builder,.karma, .calculator {
+        width: 100%;
+    }
 }
