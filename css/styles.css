@@ -8,7 +8,7 @@ body{
 
 
 .supervisor{
-    width: 350px;
+    width: 24%;
     height: 250px;
     position: absolute;
     left: 114px;
@@ -22,7 +22,7 @@ body{
 }
 
 .team-builder{
-    width: 350px;
+    width: 24%;
     height: 250px;
     position: absolute;
     left: 535px;
@@ -37,7 +37,7 @@ body{
 }
 
 .karma{
-    width: 350px;
+    width: 24%;
     height: 250px;
     position: absolute;
     left: 535px;
@@ -51,7 +51,7 @@ body{
 }
 
 .calculator{
-    width: 350px;
+    width: 24%;
     height: 250px;
     position: absolute;
     right: 150px;
