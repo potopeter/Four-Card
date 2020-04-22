@@ -119,3 +119,16 @@ body{
         width: 92%;
     }
 }
+
+.footer{
+    position: relative;
+    top: 620px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 12px;
+}
