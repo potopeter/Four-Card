@@ -44,7 +44,7 @@ body{
     height: 250px;
     position: absolute;
     left: 500px;
-    top: 500px;
+    top: 490px;
     background-color: white;
     border-top: solid 3px hsl(34, 97%, 64%);
     border-radius: 2%;
@@ -58,7 +58,7 @@ body{
     width: 25%;
     height: 250px;
     position: absolute;
-    right: 150px;
+    right: 100px;
     top: 325px;
     background-color: white;
     border-top: solid 3px hsl(212, 86%, 64%);
