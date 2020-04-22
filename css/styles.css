@@ -101,3 +101,21 @@ body{
     right: 30px;
     bottom: 30px;
 }
+
+@media screen and (max-width:400px){
+    .supervisor{
+        width: 92%;
+    }
+
+    .team-builder{
+        width: 92%;
+    }
+
+    .karma{
+        width: 92%;
+    }
+
+    .calculator{
+        width: 92%;
+    }
+}
